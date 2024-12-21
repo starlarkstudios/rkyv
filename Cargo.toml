@@ -3,7 +3,7 @@ members = [
     "benchlib",
     "rkyv",
     "rkyv_derive",
-    # "rkyv_dyn",
+    "rkyv_dyn",
     # "rkyv_dyn_derive",
     # "rkyv_dyn_test",
 ]
